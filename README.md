@@ -5,7 +5,7 @@ it’s better to answer "What are the changes for?" or "What happens if the chan
 --------------------------------------------
 "subject"
 use imperative, present tense (eg: use "add" instead of "added" or "adds")
-don't use dot(.) at end
+don't use dot(.) at end,
 don't capitalize first letter
 --------------------------------------------
 "type"
