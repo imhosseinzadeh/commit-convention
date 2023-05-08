@@ -37,3 +37,5 @@ test – for adding missing tests, refactoring tests; no production code change.
 docs – updates to documentation such as a the README or other markdown files
 
 revert – reverts a previous commit
+
+https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08
