@@ -21,10 +21,10 @@ Such commit will trigger a release bumping a PATCH version.
 
 chore – changes that do not relate to a fix or feature and don't modify src or test files ,
 a change that external user won't see
-(eg: change to .gitignore or .prettierrc)
+(eg: change to .gitignore or .prettierrc, logback.xml)
 
 build – changes that affect the build system or external dependencies
-(eg: change to pom.xml, application.properties, logback.xml)
+(eg: change to pom.xml, application.properties)
 
 refactor – for refactoring production code
 (eg: renaming a variable.)
